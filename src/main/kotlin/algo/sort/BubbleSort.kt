@@ -1,4 +1,4 @@
-package data_structure.algo.sort
+package algo.sort
 
 class BubbleSort {
     companion object {
